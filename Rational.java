@@ -1,3 +1,9 @@
+//Eric Chen
+//pd 9
+//HW27
+//2013-11-18
+
+//I added a new method lcm to Stats.java to help with my functions
 public class Rational {
 
 	private int num;
