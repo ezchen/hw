@@ -1,9 +1,8 @@
 //Eric Chen
 //pd 9
-//HW10
-//2013-10-7
-//class Stats
-
+//HW27
+//2013-11-18
+ 
 /* ---------------------------------------------------
    This class serves a purpose similar to that of the built-in class Math:
    it provides a set of commonly used statistical functions.
